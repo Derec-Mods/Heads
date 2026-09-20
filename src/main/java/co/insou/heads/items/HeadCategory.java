@@ -8,13 +8,13 @@ import org.bukkit.inventory.meta.ItemMeta;
 public enum HeadCategory {
 
     FOOD_AND_DRINKS(Material.COOKED_BEEF),
-    DECORATION(Material.RED_ROSE),
+    DECORATION(Material.POPPY),
     MINECRAFT_BLOCKS(Material.STONE),
     ANIMALS(Material.LEATHER),
     MONSTERS(Material.ROTTEN_FLESH),
-    HUMANS(Material.SKULL_ITEM),
-    ALPHABET(Material.SIGN),
-    PLANTS(Material.SEEDS),
+    HUMANS(Material.PLAYER_HEAD),
+    ALPHABET(Material.OAK_SIGN),
+    PLANTS(Material.WHEAT_SEEDS),
     MISCELLANEOUS(Material.LAVA_BUCKET);
 
     private final ItemStack item;

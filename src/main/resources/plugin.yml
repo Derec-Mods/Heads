@@ -1,6 +1,8 @@
 name: Heads
 version: 1.0-SNAPSHOT
 main: co.insou.heads.Heads
+api-version: '1.18'
+authors: [insou, DerexXD]
 
 commands:
   heads:
